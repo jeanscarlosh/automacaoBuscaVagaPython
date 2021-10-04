@@ -18,8 +18,8 @@ _______________________________
 #####  Instalar o as dependencias
 `# pip install -r requirements.txt`
 ##### Email e Senha
-`Alterar os campos (EMAIL e SENHA) no Visual Studio Code (ou na IDE de sua preferencia)`
+`# Alterar os campos (EMAIL e SENHA) no Visual Studio Code (ou na IDE de sua preferencia)`
 ##### Iniciar o App
-` "RUN AND DEBBUGER, python file e esta feito"`
+`# "RUN AND DEBBUGER, python file e esta feito"`
 _______________________________
 ###### Desenvolvido por mim, Ruan P.  A. Neres😀!
